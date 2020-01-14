@@ -1,0 +1,1 @@
+export BOLZANO_JOBS_DB=<host>:<port>:<db>:<user>:<pwd>
